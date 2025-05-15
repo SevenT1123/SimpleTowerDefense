@@ -1,7 +1,7 @@
 # SimpleTowerDefense
 
 Components:
-- Arduino Uno (Any version should works. I'm using R3)
+- Arduino Uno (Every version should works. I'm using R3)
 - Ultrasonic Sensor HC-SR04
 - Servo Motor SG90
 
